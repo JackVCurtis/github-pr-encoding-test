@@ -1,4 +1,4 @@
-async function singleQuote() {
+﻿async function singleQuote() {
     // Plain
     console.log('Hello')
     // Unicode Escape/UTF-8
